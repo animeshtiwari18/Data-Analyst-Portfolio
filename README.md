@@ -51,6 +51,10 @@ The dashboard includes the following KPIs:
 
 ## Dashboard Features
 
+## HR Analytics Dashboard
+
+![Dashboard](HR%20Analytics%20Dashboard/dashboard_screenshot.png)
+
 ### Employee Analysis
 
 * Total employee count
